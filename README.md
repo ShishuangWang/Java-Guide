@@ -5,14 +5,6 @@
 </br>
 </div>
 
-## 阅读之前必看
-
-1. **加群：** 微信交流群添加 [我的微信](#联系我) 后回复关键字“加群”即可入群。
-2. **Java工程师必备学习资源:** 一些Java工程师常用学习资源[公众号](#公众号)后台回复关键字 **“1”** 即可免费无套路获取。 
-3. **《Java面试突击》:** 由本文档衍生的专为面试而生的《Java面试突击》V2.0 PDF 版本[公众号](#公众号)后台回复 **"Java面试突击"** 即可免费领取！
-4. **关于贡献者:** 对本仓库提过有价值的 issue 或 pr 的小伙伴将出现在 [Contributor](#Contributor) 这里。
-5. **欢迎投稿：** 由于我个人能力有限，很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。**对于不错的原创文章我根据你的选择给予现金(50-300)、付费专栏或者任选书籍进行奖励！所以，快提 pr 或者邮件的方式（邮件地址在主页）给我投稿吧！** 当然，我觉得奖励是次要的，最重要的是你可以从自己整理知识点的过程中学习到很多知识。
-
 ## 目录
 
 * [Java](#java)
@@ -203,60 +195,3 @@
 *  **对于非 Java 初学者来说：** 本文档更适合回顾知识，准备面试，搞清面试应该把重心放在那些问题上。要搞清楚这个道理：提前知道那些面试常见，不是为了背下来应付面试，而是为了让你可以更有针对的学习重点。
 
 本文档 Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
-
-### 关于转载
-
-如果你需要转载本仓库的一些文章到自己的博客的话，记得注明原文地址就可以了。
-
-### 如何对该开源文档进行贡献
-
-1. 笔记内容大多是手敲，所以难免会有笔误，你可以帮我找错别字。
-2. 很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。(**对于不错的原创文章我根据你的选择给予现金奖励、付费专栏或者书籍进行奖励！快提 pr 给我投稿吧！**)
-3. 现有的知识点难免存在不完善或者错误，所以你可以对已有知识点的修改/补充。
-
-### 为什么要做这个开源文档？
-
-初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来帮助一些在学习 Java 或者面试过程中遇到问题的小伙伴。
-
-### 联系我
-
-如果大家需要与我交流，可以扫描下方二维码添加我的微信获取关注[我的公众号](#公众号)：
-
-![我的微信](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-2/JavaGuide.jpg)
-
-### Contributor
-
-下面是笔主收集的一些对本仓库提过有价值的pr或者issue的朋友，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的微信与我联系。下面的排名不分先后！
-
-<a href="https://github.com/fanofxiaofeng">
-    <img src="https://avatars0.githubusercontent.com/u/3983683?s=460&v=4" width="45px"></a>
-<a href="https://github.com/Gene1994">
-    <img src="https://avatars3.githubusercontent.com/u/24930369?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/illusorycloud">
-    <img src="https://avatars3.githubusercontent.com/u/31980412?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/LiWenGu">
-    <img src="https://avatars0.githubusercontent.com/u/15909210?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/kinglaw1204">
-    <img src="https://avatars1.githubusercontent.com/u/20039931?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/jun1st">
-    <img src="https://avatars2.githubusercontent.com/u/14312378?s=460&v=4" width="45px">
-</a>"
-<a href="https://github.com/fantasygg">  
-    <img src="https://avatars3.githubusercontent.com/u/13445354?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/debugjoker">  
-    <img src="https://avatars3.githubusercontent.com/u/26218005?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/zhyank">  
-    <img src="https://avatars0.githubusercontent.com/u/17696240?s=460&v=4" width="45px">
-</a>
-
-### 公众号
-
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
-
-![我的公众号](https://user-gold-cdn.xitu.io/2018/11/28/167598cd2e17b8ec?w=258&h=258&f=jpeg&s=27334)
